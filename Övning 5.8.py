@@ -7,6 +7,6 @@ while True:
     #Omvandla till int för att kunna räckna
     #Veta hur man räcknar med specifikt en del av splitten
     #Jag behöver omvandla allt till minuter
-    #Sedan subtrahere dem, den större med den mindre. dvs: Time2 - Time1
+    #Skapa en if sats som kollar om vilken ut av tiderna som är större och subtraherar den större med den mindre för att få ut skillnaden
     print(Time1Split)
     print(Time2Split)
