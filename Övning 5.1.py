@@ -1,3 +1,5 @@
+#Detta är 5.2 inte 5.1, jag skrev fel 😎
+
 #Importerar modulen datetime
 import datetime
 
